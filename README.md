@@ -1,6 +1,6 @@
 # Process-Drift Control Plane
 
-An animated diagram of a process that protects itself when templates, rules and requirements change: a living ontology, a local SLM that adapts the rules (a person approves), and a failover chain (hosted model → local SLM → safe default). Shown for NextArc and AI4SWEng.
+An animated diagram of a process that protects itself when templates, rules and requirements change: a living ontology, a local SLM that adapts the rules, a confidence gate that decides who acts (auto-apply for low-risk changes only, hosted-LLM review, or a person), versioned ontology with one-step rollback, recurring gaps from real runs feeding the detector, and a failover chain (hosted model → local SLM → safe default). Shown for NextArc and AI4SWEng.
 
 **Live page:** https://aliserdaratalay.github.io/process-drift-diagram/
 

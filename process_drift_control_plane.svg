@@ -14,8 +14,8 @@
 <circle cx="950" cy="800" r="560" fill="none" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="4 12"/>
 <circle cx="950" cy="800" r="360" fill="url(#core)" stroke="#4338ca" stroke-width="3"/>
 <circle cx="950" cy="800" r="250" fill="none" stroke="#c7d2fe" stroke-width="1.5" stroke-dasharray="4.5 4.5"/>
-<text x="1060.0" y="996.0" font-size="15" font-weight="800" fill="#4338ca" text-anchor="middle" letter-spacing="2">1 · ADAPT</text>
-<text x="1060.0" y="1018.0" font-size="13" font-weight="400" fill="#64748b" text-anchor="middle" letter-spacing="0">the local SLM keeps the ontology current</text>
+<text x="1060.0" y="1048.0" font-size="15" font-weight="800" fill="#4338ca" text-anchor="middle" letter-spacing="2">1 · ADAPT</text>
+<text x="1060.0" y="1070.0" font-size="13" font-weight="400" fill="#64748b" text-anchor="middle" letter-spacing="0">the local SLM keeps the ontology current</text>
 <circle cx="950" cy="800" r="128" fill="#6366f1" class="pulse"/>
 <circle cx="950" cy="800" r="112" fill="#4338ca" filter="url(#shadow)"/>
 <path d="M 916 758 L 950 740 L 984 758 M 950 740 L 950 766" stroke="#c7d2fe" stroke-width="2" fill="none"/>
@@ -26,6 +26,16 @@
 <text x="950.0" y="802.0" font-size="20" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="2">LIVING</text>
 <text x="950.0" y="826.0" font-size="20" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="2">ONTOLOGY</text>
 <text x="950.0" y="850.0" font-size="12" font-weight="400" fill="#c7d2fe" text-anchor="middle" letter-spacing="0">rules · templates · meaning</text>
+<circle cx="930" cy="950" r="19" fill="#ffffff" stroke="#4338ca" stroke-width="2.5"/>
+<text x="930.0" y="955.0" font-size="14" font-weight="800" fill="#4338ca" text-anchor="middle" letter-spacing="0">v1</text>
+<circle cx="1010" cy="950" r="19" fill="#ffffff" stroke="#4338ca" stroke-width="2.5"/>
+<text x="1010.0" y="955.0" font-size="14" font-weight="800" fill="#4338ca" text-anchor="middle" letter-spacing="0">v2</text>
+<path d="M 949 950 L 991 950" stroke="#818cf8" stroke-width="2" stroke-dasharray="3 4"/>
+<circle cx="1090" cy="950" r="19" fill="#ffffff" stroke="#4338ca" stroke-width="2.5"/>
+<text x="1090.0" y="955.0" font-size="14" font-weight="800" fill="#4338ca" text-anchor="middle" letter-spacing="0">v3</text>
+<path d="M 1029 950 L 1071 950" stroke="#818cf8" stroke-width="2" stroke-dasharray="3 4"/>
+<path d="M 1090 970 Q 1010 1008 934 974" fill="none" stroke="#e11d48" stroke-width="2" stroke-dasharray="5 5" marker-end="url(#arrow)"/>
+<text x="1010.0" y="1016.0" font-size="12" font-weight="600" fill="#e11d48" text-anchor="middle" letter-spacing="0">versioned · one-step rollback</text>
 <path d="M 733.5 675.0 Q 741.7 640.2 773.2 623.2" fill="none" stroke="#475569" stroke-width="4" stroke-dasharray="12 12" marker-end="url(#arrow)" class="flow"/>
 <path d="M 844.3 573.4 Q 871.1 549.6 906.6 553.8" fill="none" stroke="#475569" stroke-width="4" stroke-dasharray="12 12" marker-end="url(#arrow)" class="flow"/>
 <path d="M 993.4 553.8 Q 1028.9 549.6 1055.7 573.4" fill="none" stroke="#475569" stroke-width="4" stroke-dasharray="12 12" marker-end="url(#arrow)" class="flow"/>
@@ -48,8 +58,8 @@
 <text x="1093.4" y="623.2" font-size="11" font-weight="400" fill="#64748b" text-anchor="middle" letter-spacing="0">before vs after</text>
 <circle cx="1184.9" cy="714.5" r="64" fill="#ecfdf5" stroke="#059669" stroke-width="3" filter="url(#shadow)"/>
 <g transform="translate(1171.9,677.5) scale(1.083)" fill="none" stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m8 12 3 3 5-6"/></g>
-<text x="1184.9" y="724.5" font-size="14" font-weight="800" fill="#1e1b4b" text-anchor="middle" letter-spacing="0.5">APPROVE</text>
-<text x="1184.9" y="742.5" font-size="11" font-weight="400" fill="#64748b" text-anchor="middle" letter-spacing="0">a person decides</text>
+<text x="1184.9" y="724.5" font-size="14" font-weight="800" fill="#1e1b4b" text-anchor="middle" letter-spacing="0.5">CONFIDENCE</text>
+<text x="1184.9" y="742.5" font-size="11" font-weight="400" fill="#64748b" text-anchor="middle" letter-spacing="0">who acts?</text>
 <path d="M 1121.0 737.8 L 1062.8 759.0" fill="none" stroke="#059669" stroke-width="4" stroke-dasharray="12 12" marker-end="url(#arrow)" class="flow"/>
 <rect x="1081.3" y="757.4" width="65.2" height="25" rx="12.5" fill="#ffffff" stroke="#e2e8f0"/>
 <text x="1113.9" y="774.4" font-size="12" font-weight="600" fill="#059669" text-anchor="middle" letter-spacing="0">update</text>
@@ -112,6 +122,34 @@
 <text x="1476.2" y="979.5" font-size="16" font-weight="700" fill="#e11d48" text-anchor="middle" letter-spacing="1">EVIDENCE REPORT</text>
 <text x="1476.2" y="1005.5" font-size="13" font-weight="400" fill="#334155" text-anchor="middle" letter-spacing="0">always last</text>
 <text x="1476.2" y="1025.5" font-size="13" font-weight="400" fill="#334155" text-anchor="middle" letter-spacing="0">caveats kept</text>
+<path d="M 481.7 936.4 L 664.4 762.7" fill="none" stroke="#7c3aed" stroke-width="4" stroke-dasharray="12 12" marker-end="url(#arrow)" class="flow"/>
+<rect x="441.2" y="866.6" width="223.6" height="25" rx="12.5" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="553.0" y="883.6" font-size="12" font-weight="600" fill="#7c3aed" text-anchor="middle" letter-spacing="0">recurring gaps · escalations</text>
+<rect x="1335" y="648" width="290" height="222" rx="16" fill="#ffffff" stroke="#059669" stroke-width="2" filter="url(#shadow)"/>
+<text x="1480.0" y="674.0" font-size="12" font-weight="800" fill="#059669" text-anchor="middle" letter-spacing="1">CONFIDENCE DECIDES WHO ACTS</text>
+<path d="M 1357 700 L 1603 700" stroke="#94a3b8" stroke-width="1.5"/>
+<circle cx="1357.0" cy="700" r="3.5" fill="#64748b"/>
+<text x="1357.0" y="691.0" font-size="10" font-weight="600" fill="#64748b" text-anchor="middle" letter-spacing="0">0</text>
+<circle cx="1480.0" cy="700" r="3.5" fill="#64748b"/>
+<text x="1480.0" y="691.0" font-size="10" font-weight="600" fill="#64748b" text-anchor="middle" letter-spacing="0">low</text>
+<circle cx="1578.4" cy="700" r="3.5" fill="#64748b"/>
+<text x="1578.4" y="691.0" font-size="10" font-weight="600" fill="#64748b" text-anchor="middle" letter-spacing="0">high</text>
+<circle cx="1603.0" cy="700" r="3.5" fill="#64748b"/>
+<text x="1603.0" y="691.0" font-size="10" font-weight="600" fill="#64748b" text-anchor="middle" letter-spacing="0">1</text>
+<rect x="1349" y="720" width="262" height="42" rx="10" fill="#ecfdf5" stroke="#059669" stroke-width="1.5"/>
+<text x="1361.0" y="746.0" font-size="12" font-weight="800" fill="#059669" text-anchor="start" letter-spacing="0">≥ high</text>
+<text x="1431.0" y="738.0" font-size="13" font-weight="800" fill="#1e1b4b" text-anchor="start" letter-spacing="0">Auto-apply</text>
+<text x="1431.0" y="754.0" font-size="11" font-weight="400" fill="#64748b" text-anchor="start" letter-spacing="0">low-risk changes only</text>
+<rect x="1349" y="768" width="262" height="42" rx="10" fill="#f0f9ff" stroke="#0284c7" stroke-width="1.5"/>
+<text x="1361.0" y="794.0" font-size="12" font-weight="800" fill="#0284c7" text-anchor="start" letter-spacing="0">medium</text>
+<text x="1431.0" y="786.0" font-size="13" font-weight="800" fill="#1e1b4b" text-anchor="start" letter-spacing="0">Hosted LLM reviews</text>
+<text x="1431.0" y="802.0" font-size="11" font-weight="400" fill="#64748b" text-anchor="start" letter-spacing="0">second opinion</text>
+<rect x="1349" y="816" width="262" height="42" rx="10" fill="#fff7ed" stroke="#ea580c" stroke-width="1.5"/>
+<text x="1361.0" y="842.0" font-size="12" font-weight="800" fill="#ea580c" text-anchor="start" letter-spacing="0">&lt; low</text>
+<text x="1431.0" y="834.0" font-size="13" font-weight="800" fill="#1e1b4b" text-anchor="start" letter-spacing="0">A person decides</text>
+<text x="1431.0" y="850.0" font-size="11" font-weight="400" fill="#64748b" text-anchor="start" letter-spacing="0">and every rule change</text>
+<text x="1615.0" y="886.0" font-size="11" font-weight="400" fill="#94a3b8" text-anchor="end" letter-spacing="0">illustrative thresholds</text>
+<path d="M 1252.9 736.5 L 1329 688" fill="none" stroke="#059669" stroke-width="3" stroke-dasharray="12 12" marker-end="url(#arrow)" class="flow"/>
 <rect x="30.0" y="1080.0" width="240" height="80" rx="14" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
 <g transform="translate(47.0,1107.0) scale(1.083)" fill="none" stroke="#334155" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21v-1a6 6 0 0 1 6-6h4a6 6 0 0 1 6 6v1"/></g>
 <text x="166.0" y="1116.0" font-size="15" font-weight="800" fill="#334155" text-anchor="middle" letter-spacing="1">USER</text>
