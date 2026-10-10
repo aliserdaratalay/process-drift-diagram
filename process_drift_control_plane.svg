@@ -10,7 +10,7 @@
 </defs>
 <rect width="1900" height="1660" fill="#ffffff"/>
 <text x="950.0" y="56.0" font-size="32" font-weight="800" fill="#1e1b4b" text-anchor="middle" letter-spacing="2">PROCESS-DRIFT CONTROL PLANE</text>
-<text x="950.0" y="90.0" font-size="17" font-weight="400" fill="#64748b" text-anchor="middle" letter-spacing="0">A process that protects itself when templates, rules and requirements change · Otokar · AI4SWEng</text>
+<text x="950.0" y="90.0" font-size="17" font-weight="400" fill="#64748b" text-anchor="middle" letter-spacing="0">A process that protects itself when templates, rules and requirements change · NextArc · AI4SWEng</text>
 <circle cx="950" cy="800" r="560" fill="none" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="4 12"/>
 <circle cx="950" cy="800" r="360" fill="url(#core)" stroke="#4338ca" stroke-width="3"/>
 <circle cx="950" cy="800" r="250" fill="none" stroke="#c7d2fe" stroke-width="1.5" stroke-dasharray="4.5 4.5"/>
@@ -104,7 +104,7 @@
 <circle cx="1186.7" cy="1245.5" r="20.4" fill="#0d9488"/>
 <g transform="translate(1174.7,1233.5) scale(1.000)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></g>
 <text x="1186.7" y="1295.5" font-size="16" font-weight="700" fill="#0d9488" text-anchor="middle" letter-spacing="1">EXECUTION MODULES</text>
-<text x="1186.7" y="1321.5" font-size="13" font-weight="400" fill="#334155" text-anchor="middle" letter-spacing="0">Otokar mfg-*</text>
+<text x="1186.7" y="1321.5" font-size="13" font-weight="400" fill="#334155" text-anchor="middle" letter-spacing="0">NextArc mfg-*</text>
 <text x="1186.7" y="1341.5" font-size="13" font-weight="400" fill="#334155" text-anchor="middle" letter-spacing="0">AI4SWEng KIO3–12</text>
 <rect x="1341.2" y="929.5" width="270" height="124" rx="18" fill="#fff1f2" stroke="#e11d48" stroke-width="2.5" filter="url(#shadow)"/>
 <circle cx="1476.2" cy="929.5" r="20.4" fill="#e11d48"/>
